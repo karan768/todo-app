@@ -1,0 +1,53 @@
+
+.App{
+  background-color:pink;
+}
+.header{
+  background-color: orange;
+  text-align: center;
+  color: solid black;
+  font-family: verdana;
+  font-size: 40px;
+}
+.label_class{
+  font-size:30px;
+  font-family: sans-serif;
+}
+.label_div
+{
+  height:60px;
+  background-color: pink;
+}
+.footer{
+  padding: 2%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+.input_class{
+  font-size: 18px;
+  width: 230px;
+  height: 20px;
+  color: solid black;
+  border-color: solid black;
+  font-style: italic;
+}
+#btn_class
+{
+  background-color: blue;
+  height: 25px;
+  width: 90px;
+  color: #fff;
+}
+.delbtn_cls{
+  background-color: blue;
+  height: 25px;
+  width: 90px;
+  color: #fff;
+}
+.ul_class
+{
+  color: solid black;
+  border-color: solid black;
+  font-size: 25px;
+
+}
